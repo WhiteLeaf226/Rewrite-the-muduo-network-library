@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Acceptor.cpp.o -c /baiye/MYMUDUO/Acceptor.cpp",
+  "file": "/baiye/MYMUDUO/Acceptor.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Buffer.cpp.o -c /baiye/MYMUDUO/Buffer.cpp",
+  "file": "/baiye/MYMUDUO/Buffer.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Channel.cpp.o -c /baiye/MYMUDUO/Channel.cpp",
+  "file": "/baiye/MYMUDUO/Channel.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/CurrentThread.cpp.o -c /baiye/MYMUDUO/CurrentThread.cpp",
+  "file": "/baiye/MYMUDUO/CurrentThread.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/DefaultPoller.cpp.o -c /baiye/MYMUDUO/DefaultPoller.cpp",
+  "file": "/baiye/MYMUDUO/DefaultPoller.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/EPollPoller.cpp.o -c /baiye/MYMUDUO/EPollPoller.cpp",
+  "file": "/baiye/MYMUDUO/EPollPoller.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoop.cpp.o -c /baiye/MYMUDUO/EventLoop.cpp",
+  "file": "/baiye/MYMUDUO/EventLoop.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoopThread.cpp.o -c /baiye/MYMUDUO/EventLoopThread.cpp",
+  "file": "/baiye/MYMUDUO/EventLoopThread.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.cpp.o -c /baiye/MYMUDUO/EventLoopThreadPool.cpp",
+  "file": "/baiye/MYMUDUO/EventLoopThreadPool.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/InetAddress.cpp.o -c /baiye/MYMUDUO/InetAddress.cpp",
+  "file": "/baiye/MYMUDUO/InetAddress.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Logger.cpp.o -c /baiye/MYMUDUO/Logger.cpp",
+  "file": "/baiye/MYMUDUO/Logger.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Poller.cpp.o -c /baiye/MYMUDUO/Poller.cpp",
+  "file": "/baiye/MYMUDUO/Poller.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Socket.cpp.o -c /baiye/MYMUDUO/Socket.cpp",
+  "file": "/baiye/MYMUDUO/Socket.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/TcpConnection.cpp.o -c /baiye/MYMUDUO/TcpConnection.cpp",
+  "file": "/baiye/MYMUDUO/TcpConnection.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/TcpSever.cpp.o -c /baiye/MYMUDUO/TcpSever.cpp",
+  "file": "/baiye/MYMUDUO/TcpSever.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Thread.cpp.o -c /baiye/MYMUDUO/Thread.cpp",
+  "file": "/baiye/MYMUDUO/Thread.cpp"
+},
+{
+  "directory": "/baiye/MYMUDUO/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Timestamp.cpp.o -c /baiye/MYMUDUO/Timestamp.cpp",
+  "file": "/baiye/MYMUDUO/Timestamp.cpp"
+}
+]
